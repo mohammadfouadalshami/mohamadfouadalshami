@@ -6,7 +6,10 @@
 - 💬 Ask me about **Tech**
 <!-- 📫 How to reach me: **[Your email / LinkedIn / portfolio link]** 
 - ⚡ Fun fact: **[Something interesting about you]** -->
+<!-- QUOTE-START -->
 ![](https://raw.githubusercontent.com/mohammadfouadalshami/mohamadfouadalshami/output/quote.html)
+<!-- QUOTE-END -->
+
 
 
 ---
